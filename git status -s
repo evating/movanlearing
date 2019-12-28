@@ -1,0 +1,28 @@
+[1mdiff --git a/1.py b/1.py[m
+[1mindex d25d49e..eae66cb 100644[m
+[1m--- a/1.py[m
+[1m+++ b/1.py[m
+[36m@@ -1 +1,2 @@[m
+[31m-a = 1[m
+\ No newline at end of file[m
+[32m+[m[32ma = 1[m
+[32m+[m[32mb = 2[m
+\ No newline at end of file[m
+[1mdiff --git a/for_gitTUT_2-2.zip b/for_gitTUT_2-2.zip[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d0cea5e[m
+Binary files /dev/null and b/for_gitTUT_2-2.zip differ
+[1mdiff --git a/for_gitTUT_2-2/__MACOSX/for_gitTUT_2-2/._.DS_Store b/for_gitTUT_2-2/__MACOSX/for_gitTUT_2-2/._.DS_Store[m
+[1mnew file mode 100644[m
+[1mindex 0000000..09fa6bd[m
+Binary files /dev/null and b/for_gitTUT_2-2/__MACOSX/for_gitTUT_2-2/._.DS_Store differ
+[1mdiff --git a/for_gitTUT_2-2/for_gitTUT_2-2 b/for_gitTUT_2-2/for_gitTUT_2-2[m
+[1mnew file mode 160000[m
+[1mindex 0000000..13be9a7[m
+[1m--- /dev/null[m
+[1m+++ b/for_gitTUT_2-2/for_gitTUT_2-2[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 13be9a7bf70c040544c6242a494206f240aac03c[m
+[1mdiff --git a/i.py b/i.py[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
